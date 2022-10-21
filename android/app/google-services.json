@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "433957386519",
+    "project_id": "hungerswipe",
+    "storage_bucket": "hungerswipe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433957386519:android:ba500ffc008830014b5f52",
+        "android_client_info": {
+          "package_name": "com.hungerswipe.hungerswipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433957386519-htg43gdka2el21ib5qbdm3s8kl9ge1rd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hungerswipe.hungerswipe",
+            "certificate_hash": "4e4d834da542426865723732b89480fda6167dc4"
+          }
+        },
+        {
+          "client_id": "433957386519-iu8s3k7ljsl5nug1l6hqiabtpfg997oe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hungerswipe.hungerswipe",
+            "certificate_hash": "6a3f7f581583ef6a86e261f99dc414f4f93bae88"
+          }
+        },
+        {
+          "client_id": "433957386519-t9b56gntg8sd1s56adqdm2o87ernqmum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hungerswipe.hungerswipe",
+            "certificate_hash": "525becffa1599472f4d4496bb613c3ce1e19809c"
+          }
+        },
+        {
+          "client_id": "433957386519-lsie68nu9jlomsjg2s74gf2r9ssbenvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFm8gSyUDXUiKdpariAnWLjvHf05hss6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433957386519-lsie68nu9jlomsjg2s74gf2r9ssbenvb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "433957386519-uqdc4e3f34ksgjoh93qnc5858s2nm9v4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hungerswipe.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
